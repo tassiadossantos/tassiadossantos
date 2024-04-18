@@ -9,7 +9,7 @@
 #### **Aprendendo:** Novas ferramentas e frameworks para me tornar uma ninja🥷🏾 da programação front-end!
 ### Busco:
 #### **Projetos:** Criativos e desafiadores que me permitam usar minhas habilidades para resolver problemas reais e fazer a diferença.
-#### **Colaboração:**: Com outros desenvolvedores em projetos empolgantes.
+#### **Colaboração:** Com outros desenvolvedores em projetos empolgantes.
 #### **Ajuda:** Dicas e conselhos de desenvolvedores experientes para aprimorar minhas habilidades e alcançar meus objetivos profissionais.
 ### Pergunte-me sobre:
 
