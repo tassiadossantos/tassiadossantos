@@ -25,10 +25,10 @@
 [![GitHub:](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://api.whatsapp.com/send?phone=5571996171605)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tassiadossantos&show_icons=true&theme=onedark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tassiadossantos&show_icons=true&theme=gotham" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tassiadossantos&show_icons=true&theme=onedark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tassiadossantos&show_icons=true&theme=gotham&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ### Tecnologias, ferramentas e frameworks estudadas atualmente:
@@ -42,8 +42,6 @@
 [![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 [![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-
 
  ##### Direitos Autorais ©2024 por Tassia dos Santos | Todos os Direitos Reservados 
                                                          
