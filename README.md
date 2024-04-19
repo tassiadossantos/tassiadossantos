@@ -16,7 +16,7 @@
 #### **Hobbies e Interesses:** Meus universos favoritos (Marvel, DC, Star Wars) e meu amor por livros e matemática.📚➕📐
 #### **Sonhos e Objetivos:** O que me motiva e inspira na minha carreira.
 #### **Habilidades Únicas:** O que me torna uma "quase" Desenvolvedora Front-End especial.
-#### **Curiosidade::** Minhas paixões por café, matemática e leitura, e como elas se conectam com a programação.
+#### **Curiosidade:** Minhas paixões por café, matemática e leitura, e como elas se conectam com a programação.
 
 ### Conecte-se comigo:
 [![WhatsApp:](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5571996171605)
