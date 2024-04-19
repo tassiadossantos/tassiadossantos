@@ -8,12 +8,12 @@
 #### **Trabalhando:** Transformando minha paixão por café e tecnologia em projetos inovadores que levam alegria para o mundo digital! ☕👩🏾‍💻
 #### **Aprendendo:** Novas ferramentas e frameworks para me tornar uma ninja🥷🏾 da programação front-end!
 ### Busco:
-#### **Projetos:** Criativos e desafiadores que me permitam usar minhas habilidades para resolver problemas reais e fazer a diferença.
-#### **Colaboração:** Com outros desenvolvedores em projetos empolgantes.
+#### **Projetos:** Criativos e desafiadores que me permitam usar minhas habilidades para resolver problemas🤯 reais e fazer a diferença.
+#### **Colaboração:** Com outros desenvolvedores🧑🏻‍💻 em projetos empolgantes.
 #### **Ajuda:** Dicas e conselhos de desenvolvedores experientes para aprimorar minhas habilidades e alcançar meus objetivos profissionais.
 ### Pergunte-me sobre:
 #### **Front-End Development:** Qualquer coisa relacionada à minha área de atuação.
-#### **Hobbies e Interesses:** Meus universos favoritos (Marvel, DC, Star Wars) e meu amor por livros e matemática.
+#### **Hobbies e Interesses:** Meus universos favoritos (Marvel, DC, Star Wars) e meu amor por livros e matemática.📚➕📐
 #### **Sonhos e Objetivos:** O que me motiva e inspira na minha carreira.
 #### **Habilidades Únicas:** O que me torna uma "quase" Desenvolvedora Front-End especial.
 #### **Curiosidade::** Minhas paixões por café, matemática e leitura, e como elas se conectam com a programação.
@@ -31,21 +31,16 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tassiadossantos&show_icons=true&theme=onedark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-### Tecnologias, ferramentas e frameworks atualmente:
-<div style="display: inline_block">
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</div>
-<div style="display: inline_block">
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-<div style="display: inline_block">
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-<div style="display: inline_block">
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-<div style="display: inline_block">
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+### Tecnologias, ferramentas e frameworks estudadas atualmente:
+
+[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+[![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+[![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+[![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ##### Direitos Autorais ©2024 por Tassia dos Santos | Todos os Direitos Reservados 
