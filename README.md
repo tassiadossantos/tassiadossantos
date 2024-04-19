@@ -43,7 +43,6 @@
 [![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-![Snake animation](https://github.com/tassiadossantos/tassiadossantos/blob/output/github-contribution-grid-snake.svg)
 
  ##### Direitos Autorais ©2024 por Tassia dos Santos | Todos os Direitos Reservados 
                                                          
