@@ -12,6 +12,11 @@
 #### **Colaboração:** Com outros desenvolvedores em projetos empolgantes.
 #### **Ajuda:** Dicas e conselhos de desenvolvedores experientes para aprimorar minhas habilidades e alcançar meus objetivos profissionais.
 ### Pergunte-me sobre:
+#### **Front-End Development:** Qualquer coisa relacionada à minha área de atuação.
+#### **Hobbies e Interesses:** Meus universos favoritos (Marvel, DC, Star Wars) e meu amor por livros e matemática.
+#### **Sonhos e Objetivos** O que me motiva e inspira na minha carreira.
+#### **Habilidades Únicas: **O que me torna uma "quase" Desenvolvedora Front-End especial.
+#### **Curiosidade::**Minhas paixões por café, matemática e leitura, e como elas se conectam com a programação.
 
 ### Conecte-se comigo:
 [![WhatsApp:](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5571996171605)
