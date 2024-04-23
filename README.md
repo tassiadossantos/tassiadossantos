@@ -1,25 +1,7 @@
-### Olá! Eu sou a Tassia👋🏾
 ### Sobre Mim
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gotham&pause=1000&color=599CAB&random=false&width=535&lines=Ol%C3%A1!+Eu+sou+a+Tassia%F0%9F%91%8B%F0%9F%8F%BE;Apaixonada+por+tecnologia%F0%9F%92%BB+e+caf%C3%A9%E2%98%95...;Acredito+que+tecnologia+transforma+vidas...;Acredito+que+tecnologia+conecta+pessoas.+;Minha+jornada+come%C3%A7ou+como+Content+Strategist.;+Mas+meu+cora%C3%A7%C3%A3o+sempre+pulsou+ao+ritmo+do+c%C3%B3digo.;Atualmente%2C+curso+Desenvolvimento+Web+na+%23HCODE.;Meu+foco+inicial%3F+;Interfaces+interativas+com+React%2C+Node+e+Vue.js.;Sou+uma+desenvolvedora+em+ascens%C3%A3o.;Busco%3A;Projetos%3A+Criativos+e+desafiadores...;Colabora%C3%A7%C3%A3o%3A+Com+outros+desenvolvedores%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+;Ajuda%3A+Dicas+e+conselhos+de+desenvolvedores.;Pergunte-me+sobre%3A;Hobbies+e+Interesses%3A+Meus+universos+favoritos%F0%9F%A6%B8%F0%9F%8F%BE%E2%80%8D%E2%99%80%EF%B8%8F...;...e+meu+amor+por+livros+e+matem%C3%A1tica.%F0%9F%93%9A%E2%9E%95%F0%9F%93%90;Sonhos+e+Objetivos%3A+O+que+me+motiva+e+inspira.;Sou+a+desenvolvedora+ideal+para+voc%C3%AA+se+busca%3A;Conex%C3%A3o+caf%C3%A9-c%C3%B3digo...;Criatividade+e+estrat%C3%A9gia...;Aprendizagem+cont%C3%ADnua.;Aguardo+seu+feedback!" alt="Typing SVG" /></a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tassiadossantos&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-#### Sou uma _"quase" Desenvolvedora Front-End_ apaixonada por desafios e pela satisfação de ver o código se transformar em realidade. Mas meu universo vai além de pixels e tags HTML!💻 Entre uma linha de código e outra, me divirto com universos como Marvel, DC e Star Wars🦸🏽‍♀️. Afinal, o que seria de uma nerd sem suas paixões?🤓
-
-### Atualmente:
-#### **Trabalhando:** Transformando minha paixão por café e tecnologia em projetos inovadores que levam alegria para o mundo digital! ☕👩🏾‍💻
-#### **Aprendendo:** Novas ferramentas e frameworks para me tornar uma ninja🥷🏾 da programação front-end!
-### Busco:
-#### **Projetos:** Criativos e desafiadores que me permitam usar minhas habilidades para resolver problemas🤯 reais e fazer a diferença.
-#### **Colaboração:** Com outros desenvolvedores🧑🏻‍💻 em projetos empolgantes.
-#### **Ajuda:** Dicas e conselhos de desenvolvedores experientes para aprimorar minhas habilidades e alcançar meus objetivos profissionais.
-### Pergunte-me sobre:
-#### **Front-End Development:** Qualquer coisa relacionada à minha área de atuação.
-#### **Hobbies e Interesses:** Meus universos favoritos (Marvel, DC, Star Wars) e meu amor por livros e matemática.📚➕📐
-#### **Sonhos e Objetivos:** O que me motiva e inspira na minha carreira.
-#### **Habilidades Únicas:** O que me torna uma "quase" Desenvolvedora Front-End especial.
-#### **Curiosidade:** Minhas paixões por café, matemática e leitura, e como elas se conectam com a programação.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
