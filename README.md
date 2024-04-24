@@ -34,9 +34,10 @@
 [![LinkedIn:](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassiadossantos)
 [![GitHub:](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://api.whatsapp.com/send?phone=5571996171605)
 
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tassiadossantos}/count.svg" /></p> 
-<br>
+
+
+
+
 
 ##### Direitos Autorais ©2024 por Tassia dos Santos | Todos os Direitos Reservados
 
