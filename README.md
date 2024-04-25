@@ -15,7 +15,6 @@
  
 <div align="center">
   
-
 ### Estudando:
 
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,20 +33,10 @@
 [![LinkedIn:](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassiadossantos)
 [![GitHub:](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://api.whatsapp.com/send?phone=5571996171605)
 
-
-
-
-
-
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/tassiadossantos/count.svg" />  
 </p>
 
-
-
-
-
 ##### Direitos Autorais ©2024 por Tassia dos Santos | Todos os Direitos Reservados
 
 </div>
-                                                         
