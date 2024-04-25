@@ -4,10 +4,7 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tassiadossantos&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
-<br>
-<br>
-<br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tassiadossantos&show_icons=true&theme=gotham" />
 </a>
@@ -15,8 +12,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tassiadossantos&show_icons=true&theme=gotham&layout=compact&langs_count=8&card_width=320" />
   </a>
 </a>
-  <br>
-  <br>
+ 
 <div align="center">
   
 
@@ -31,8 +27,7 @@
 [![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 [![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-<br>
-<br>
+
 ### Conecte-se comigo:
 [![WhatsApp:](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5571996171605)
 [![Email:](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tassiadossantos@hotmail.com)
@@ -40,10 +35,7 @@
 [![GitHub:](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://api.whatsapp.com/send?phone=5571996171605)
 
 
-<br>
-<br>
-<br>
-<br>
+
 
 
 
