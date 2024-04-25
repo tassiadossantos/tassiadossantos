@@ -3,11 +3,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tassiadossantos&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tassiadossantos&show_icons=true&theme=gotham" alt="Anurag's GitHub stats">
-</p>
-
-  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tassiadossantos&theme=gotham" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tassiadossantos&layout=compact&langs_count=8&card_width=320&theme=gotham" />
+</a>
 <div align="center">
   <h3>Estudando:</h3>
 </div>
