@@ -1,42 +1,64 @@
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gotham&weight=300&size=21&pause=1000&color=599CAB&random=false&width=615&height=60&lines=Ol%C3%A1!+Eu+sou+a+Tassia%F0%9F%91%8B%F0%9F%8F%BE;Apaixonada+por+tecnologia%F0%9F%92%BB+e+caf%C3%A9%E2%98%95...;Acredito+que+tecnologia+transforma+vidas...;Acredito+que+tecnologia+conecta+pessoas.+;Minha+jornada+come%C3%A7ou+como+Content+Strategist.;+Mas+meu+cora%C3%A7%C3%A3o+sempre+pulsou+ao+ritmo+do+c%C3%B3digo.;Atualmente%2C+curso+Desenvolvimento+Web+na+%23HCODE.;Meu+foco+inicial%3F+;Interfaces+interativas+com+React%2C+Node+e+Vue.js.;Sou+uma+%22quase%22+Dev...;Busco%3A;Projetos%3A+Criativos+e+desafiadores...;Colabora%C3%A7%C3%A3o%3A+Com+outros+desenvolvedores%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+;Ajuda%3A+Dicas+e+conselhos+de+desenvolvedores.;Pergunte-me+sobre%3A;Hobbies+e+Interesses%3A+Meus+universos+favoritos%F0%9F%A6%B8%F0%9F%8F%BE%E2%80%8D%E2%99%80%EF%B8%8F...;...e+meu+amor+por+livros+e+matem%C3%A1tica.%F0%9F%93%9A%E2%9E%95%F0%9F%93%90;Sonhos+e+Objetivos%3A+O+que+me+motiva+e+inspira.;Sou+a+desenvolvedora+ideal+para+voc%C3%AA+se+busca%3A;Conex%C3%A3o+caf%C3%A9-c%C3%B3digo...;Criatividade+e+estrat%C3%A9gia...;Aprendizagem+cont%C3%ADnua.;Aguardo+seu+feedback!" alt="Typing SVG" /></a></div>
+<h3 align="left">Sobre mim</h3>
 
+###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tassiadossantos&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img src="https://github-readme-stats.vercel.app/api?username=tassiadossantos&theme=gotham" height=200 align="center" /> 
-</a> </p> 
+<p align="left">Apaixonada por tecnologia e café, sou uma estudante de Ciência da Computação na Estácio em busca de me tornar uma desenvolvedora completa. <br><br>Com experiência anterior como Estrategista de Conteúdo, trago um conjunto único de habilidades que combina criatividade, comunicação e foco em resolução de problemas. Mas meu coração sempre pulsou ao ritmo do código.</p>
 
-<p align="center"> <a href="https://github.com/anuraghazra/convoychat"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tassiadossantos&layout=compact&langs_count=8&card_width=320&theme=gotham" height="200" /> 
-</a> </p>
-<div align="center">
-  <h3>Estudando:</h3>
-</div>
-
-[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-[![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-[![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-[![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-[![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+###
 
 <div align="center">
-  <h3>Conecte-se comigo:</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=tassiadossantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&order=1&custom_title=Tassia%20dos%20Santos%20Silva" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tassiadossantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2&custom_title=Tassia%20dos%20Santos%20Silva" height="190" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=tassiadossantos&locale=pt-br&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="190" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=tassiadossantos&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tassiadossantos&radius=25&theme=gotham&area=true&order=5&custom_title=Tassia%20dos%20Santos%20Silva&hide_title=false&hide_border=false" height="340" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h4 align="center">Estudando:</h4>
+
+###
+
 <div align="center">
-  
-[![WhatsApp:](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5571996171605)
-[![Email:](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tassiadossantos@hotmail.com)
-[![LinkedIn:](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassiadossantos)
-[![GitHub:](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://api.whatsapp.com/send?phone=5571996171605)
-
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
 </div>
 
+###
+
+<h4 align="center">Conecte-se comigo:</h4>
+
+###
 
 <div align="center">
-<h5>Direitos Autorais ©2024 por Tassia dos Santos | Todos os Direitos Reservados</h5>
+  <a href="https://www.linkedin.com/in/tassiadossantos" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:tassiadossantos@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="43" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5571996171605" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="43" height="35" alt="whatsapp logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="35" alt="instagram logo"  />
 </div>
 
+###
+
+<h5 align="center">Direitos Autorais ©2024 por Tassia dos Santos | Todos os Direitos Reservados</h5>
+
+###
