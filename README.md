@@ -33,15 +33,25 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="35" alt="go logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=angular" height="35" alt="angularjs logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vue" height="35" alt="vuejs logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
 </div>
