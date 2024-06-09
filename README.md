@@ -21,39 +21,39 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=go" height="35" alt="go logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=angular" height="35" alt="angularjs logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vue" height="35" alt="vuejs logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
@@ -64,15 +64,15 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tassiadossantos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:tassiadossantos@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="43" height="35" alt="microsoft-outlook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="38" height="35" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5571996171605" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="43" height="35" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="38" height="35" alt="whatsapp logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="35" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="35" alt="instagram logo"  />
 </div>
 
 ###
