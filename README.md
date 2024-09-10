@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Apaixonada por tecnologia e café, sou uma estudante de Ciência da Computação na Estácio em busca de me tornar uma desenvolvedora completa. <br><br>Com experiência anterior como Estrategista de Conteúdo, trago um conjunto único de habilidades que combina criatividade, comunicação e foco em resolução de problemas. Mas meu coração sempre pulsou ao ritmo do código.</p>
+<p align="left">Estudante de Ciência da Computação e Redes, apaixonada por desafios e novas tecnologias. Atualmente, trabalho como Desenvolvedora de Software na Arancia, onde estou expandindo meus conhecimentos em Segurança Ofensiva. #AprendizadoContínuo #DevOps #Cybersecurity</p>
 
 ###
 
