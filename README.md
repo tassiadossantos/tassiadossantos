@@ -1,10 +1,17 @@
-<h3 align="left">Sobre mim</h3>
+<h3 align="center">🎮 Jogadora do Time Tecnologia, Nível: Exploradora 🚀</h3>
 
 ###
 
-<p align="left">👩‍💻 Estudante de Ciência da Computação e Redes, entusiasta por desafios e apaixonada por novas tecnologias. Atualmente, foco no aprendizado em Segurança Ofensiva, DevOps e Cybersecurity. Sempre buscando transformar problemas complexos em soluções criativas.</p> <p align="center"> <b>🔒 #SegurançaCibernética | 🚀 #DevOps | 📖 #AprendizadoContínuo</b></p>
-
-###
+<p align="left">👩‍💻 Estudante de Ciência da Computação e Redes, sempre pronta para encarar desafios e aprender algo novo (com um café ao lado, claro). Paixão infinita por tecnologia e uma relação de amor e ódio com bugs. Atualmente, foco no aprendizado em Segurança Ofensiva, DevOps e Cybersecurity. Sempre buscando transformar problemas complexos em soluções criativas.</p> <p align="center"> <b>🔒 #SegurançaCibernética | 🚀 #DevOps | 📖 #AprendizadoContínuo</b></p>
+<p align="center">
+  🐛 Meu lema? “Se não tem bugs, cadê a graça?”
+</p>
+<p align="center">
+  🎯 Erros fazem parte da jornada (especialmente quando o código não compila de primeira). O importante é continuar evoluindo!
+</p>
+<p align="center">
+  🔍 Minha meta? Resolver problemas complexos e transformar ideias criativas em soluções reais.
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tassiadossantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&order=1&custom_title=Tassia%20dos%20Santos%20Silva" height="190" alt="stats graph"  />
