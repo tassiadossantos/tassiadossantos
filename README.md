@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Ciência da Computação e Redes, apaixonada por desafios e novas tecnologias. Expandindo meus conhecimentos em Segurança Ofensiva. #AprendizadoContínuo #DevOps #Cybersecurity</p>
+<p align="left">👩‍💻 Estudante de Ciência da Computação e Redes, entusiasta por desafios e apaixonada por novas tecnologias. Atualmente, foco no aprendizado em Segurança Ofensiva, DevOps e Cybersecurity. Sempre buscando transformar problemas complexos em soluções criativas.</p> <p align="center"> <b>🔒 #SegurançaCibernética | 🚀 #DevOps | 📖 #AprendizadoContínuo</b></p>
 
 ###
 
