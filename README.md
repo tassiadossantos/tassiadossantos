@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Ciência da Computação e Redes, apaixonada por desafios e novas tecnologias. Atualmente, trabalho como Desenvolvedora de Software na Arancia, onde estou expandindo meus conhecimentos em Segurança Ofensiva. #AprendizadoContínuo #DevOps #Cybersecurity</p>
+<p align="left">Estudante de Ciência da Computação e Redes, apaixonada por desafios e novas tecnologias. Expandindo meus conhecimentos em Segurança Ofensiva. #AprendizadoContínuo #DevOps #Cybersecurity</p>
 
 ###
 
