@@ -22,7 +22,7 @@
 </div>
 
 ###
-<h4 align="center">💻 Estudando Atualmente:</h4> <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,py,c,java,react,nodejs,dart,kotlin,angular,vue,azure,aws,git,figma" alt="Tecnologias em Estudo" /> </p>
+<h4 align="center">💻 Linguagens e Tecnologias:</h4> <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,py,c,java,react,nodejs,dart,kotlin,angular,vue,azure,aws,git,figma" alt="Tecnologias em Estudo" /> </p>
 
 <h5 align="center">Direitos Autorais ©2024 por Tassia dos Santos | Todos os Direitos Reservados</h5>
 
