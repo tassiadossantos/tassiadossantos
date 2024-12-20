@@ -41,8 +41,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tassiadossantos&radius=25&theme=gotham&area=true&order=5&custom_title=Tassia%20dos%20Santos%20Silva&hide_title=false&hide_border=false" height="355" alt="activity-graph graph"  />
 </div>
 <br>
-<!-- INÍCIO_DA_SINFONIA_DO_CÓDIGO:waka -->
-<!-- FIM_DA_SINFONIA_DO_CÓDIGO:waka -->
+
+## 📊 Estatísticas de Codificação
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://wakatime.com/share/@tassia_dossantos/d6695a27-5b57-44b4-b85d-3e7f3ed6ee4c.svg" height="400"/>
+
 
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
