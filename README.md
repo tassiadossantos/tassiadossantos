@@ -31,6 +31,21 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<h4 align="center">📊 Métricas de Desenvolvimento</h4>
+
+<figure>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tassia_dossantos&theme=gotham&hide_border=false&layout=compact&custom_title=Tempo%20de%20Codificação" alt="Estatísticas WakaTime"/>
+</figure>
+
+<details>
+  <summary><b>📈 Detalhes das Atividades</b></summary>
+  
+  <figure>
+    <img src="https://wakatime.com/share/@tassia_dossantos/d6f678b4-f273-4d0a-b7c9-c0c069c7a0d5.svg" alt="Linguagens mais usadas"/>
+  </figure>
+</details>
+
+
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
 <p align="center" style="text-decoration:none">
