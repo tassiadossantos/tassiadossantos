@@ -28,23 +28,26 @@
   <br>
 </p>
 
+<h4 align="center">📊 Métricas de Desenvolvimento</h4>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<h4 align="center">📊 Métricas de Desenvolvimento</h4>
-
-<figure>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tassia_dossantos&theme=gotham&hide_border=false&layout=compact&custom_title=Tempo%20de%20Codificação" alt="Estatísticas WakaTime"/>
-</figure>
-
 <details>
-  <summary><b>📈 Detalhes das Atividades</b></summary>
+  <summary><b>📈 Estatísticas Detalhadas</b></summary>
   
-  <figure>
-    <img src="https://wakatime.com/share/@tassia_dossantos/d6f678b4-f273-4d0a-b7c9-c0c069c7a0d5.svg" alt="Linguagens mais usadas"/>
-  </figure>
+  <h4>💻 Ambiente de Desenvolvimento</h4>
+  
+  ![Métricas WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=tassia_dossantos&layout=compact&theme=gotham&hide_border=true&custom_title=Tempo%20de%20Codificação)
+  
+  <h4>🔥 Atividade Semanal</h4>
+  
+  ![Gráfico de Atividade](https://wakatime.com/share/@tassia_dossantos/activity.svg)
+  
+  <h4>🌟 Linguagens da Semana</h4>
+  
+  ![Linguagens](https://wakatime.com/share/@tassia_dossantos/languages.svg)
 </details>
-
 
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
