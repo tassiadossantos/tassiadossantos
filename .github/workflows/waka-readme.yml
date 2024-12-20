@@ -1,4 +1,4 @@
-name: Sinfonia do Código
+name: Waka Readme
 on:
   schedule:
     - cron: '0 */6 * * *'
