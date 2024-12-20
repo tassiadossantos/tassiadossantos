@@ -33,6 +33,9 @@
 <br>
 <br>
   
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
   🔍 Minha meta? Resolver problemas complexos e transformar ideias criativas em soluções reais.
   </p> 
