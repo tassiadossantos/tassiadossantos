@@ -33,20 +33,6 @@
 <br>
 <br>
   
-## ⚡ Estatísticas WakaTime
-
-<div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/tassia_dossantos.svg)](https://wakatime.com/@tassia_dossantos)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tassia_dossantos&layout=compact&theme=gotham&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-
-<img src="https://wakatime.com/share/@tassia_dossantos/d6695a27-5b57-44b4-b85d-3e7f3ed6ee4c.svg" height="400"/>
-
-
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
 <p align="center" style="text-decoration:none">
