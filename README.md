@@ -41,6 +41,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tassiadossantos&radius=25&theme=gotham&area=true&order=5&custom_title=Tassia%20dos%20Santos%20Silva&hide_title=false&hide_border=false" height="355" alt="activity-graph graph"  />
 </div>
 <br>
+<!-- INÍCIO_DA_SINFONIA_DO_CÓDIGO:waka -->
+<!-- FIM_DA_SINFONIA_DO_CÓDIGO:waka -->
+
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
 <p align="center" style="text-decoration:none">
