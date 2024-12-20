@@ -43,9 +43,6 @@ TSConfig      2 mins          ▓░░░░░░░░░░░░░░░�
 JavaScript    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
-
-<!--END_SECTION:waka-->
-
 <details>
   <summary><b>📈 Estatísticas Detalhadas</b></summary>
   
@@ -61,7 +58,7 @@ HTML          0 secs          ░░░░░░░░░░░░░░░░�
   
   ![Linguagens](https://wakatime.com/share/@tassia_dossantos/languages.svg)
 </details>
-
+<!--END_SECTION:waka-->
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
 <p align="center" style="text-decoration:none">
