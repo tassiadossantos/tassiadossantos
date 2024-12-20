@@ -36,7 +36,7 @@
 <p align="center">
   🔍 Minha meta? Resolver problemas complexos e transformar ideias criativas em soluções reais.
   </p> 
-  
+ 
   <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tassiadossantos&radius=25&theme=gotham&area=true&order=5&custom_title=Tassia%20dos%20Santos%20Silva&hide_title=false&hide_border=false" height="355" alt="activity-graph graph"  />
 </div>
