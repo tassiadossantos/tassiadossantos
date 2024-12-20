@@ -1,28 +1,21 @@
-name: WakaTime Status Update
+name: Métricas WakaTime
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Atualizar Estatísticas WakaTime
+    name: Atualizar README
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_OS: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "True"
-          LOCALE: "pt-br"
+          SHOW_TITLE: true
+          BLOCKS: ░▒▓█
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
