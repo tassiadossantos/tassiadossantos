@@ -29,25 +29,8 @@
 </p>
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 13 December 2024 - To: 20 December 2024
-
-TypeScript    1 hr 33 mins    █████████████████████▒░░░   85.13 %
-JSON          11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-TSConfig      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-JavaScript    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-```
-
 <!--END_SECTION:waka-->
 
-<figure>
-  <img src="https://wakatime.com/share/@tassia_dossantos/d6f678b4-f273-4d0a-b7c9-c0c069c7a0d5.svg" alt="Linguagens mais usadas"/>
-</figure>
-
-
-  
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
 <p align="center" style="text-decoration:none">
