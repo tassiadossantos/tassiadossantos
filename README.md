@@ -27,13 +27,14 @@
   <br>
   <br>
 </p>
-<h4 align="center">📊 Estatísticas WakaTime</h4>
 
-[![wakatime](https://wakatime.com/badge/user/tassia_dossantos.svg)](https://wakatime.com/@tassia_dossantos)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <figure>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tassia_dossantos&theme=gotham&hide_border=false&layout=compact&custom_title=Tempo%20de%20Codificação" alt="Estatísticas WakaTime" />
+  <img src="https://wakatime.com/share/@tassia_dossantos/d6f678b4-f273-4d0a-b7c9-c0c069c7a0d5.svg" alt="Linguagens mais usadas"/>
 </figure>
+
 
   
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
