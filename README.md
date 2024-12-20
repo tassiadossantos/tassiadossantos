@@ -27,11 +27,14 @@
   <br>
   <br>
 </p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tassiadossantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&order=1&custom_title=Tassia%20dos%20Santos%20Silva" height="198" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tassiadossantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2&custom_title=Tassia%20dos%20Santos%20Silva" height="200" alt="languages graph"  />
-<br>
-<br>
+<h4 align="center">📊 Estatísticas WakaTime</h4>
+
+[![wakatime](https://wakatime.com/badge/user/tassia_dossantos.svg)](https://wakatime.com/@tassia_dossantos)
+
+<figure>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tassia_dossantos&theme=gotham&hide_border=false&layout=compact&custom_title=Tempo%20de%20Codificação" alt="Estatísticas WakaTime" />
+</figure>
+
   
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
