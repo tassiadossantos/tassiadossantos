@@ -10,7 +10,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: ${{ github.head_ref }}
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -18,4 +23,4 @@ jobs:
           BLOCKS: ░▒▓█
           TIME_RANGE: last_7_days
           SHOW_TIME: true
-          SHOW_MASKED_TIME: true
+          COMMIT_MESSAGE: "docs: atualiza estatísticas do WakaTime"
