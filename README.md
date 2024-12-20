@@ -34,20 +34,76 @@
 <br>
   
   <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2051%20mins-blue)
 
-<p align="center">
-  🔍 Minha meta? Resolver problemas complexos e transformar ideias criativas em soluções reais.
-  </p> 
- 
-  <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tassiadossantos&radius=25&theme=gotham&area=true&order=5&custom_title=Tassia%20dos%20Santos%20Silva&hide_title=false&hide_border=false" height="355" alt="activity-graph graph"  />
-</div>
-<br>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
 
-## 📊 Estatísticas de Codificação
+**🐱 My GitHub Data** 
 
-<!--START_SECTION:waka-->
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 107 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+🌆 Daytime                18 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌃 Evening                72 commits          ██████████████████░░░░░░░   72.73 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Tuesday                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Wednesday                26 commits          ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+Thursday                 30 commits          ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Friday                   19 commits          █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Sunday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 33 mins        █████████████████████░░░░   85.13 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+TSConfig                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+
+🔥 Editors: 
+VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+arcnet                   1 hr 21 mins        ███████████████████░░░░░░   74.30 % 
+stark-social             28 mins             ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+
+💻 Operating System: 
+Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ███████████████░░░░░░░░░░   60.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C                        1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+
+ Last Updated on 20/12/2024 22:28:54 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@tassia_dossantos/d6695a27-5b57-44b4-b85d-3e7f3ed6ee4c.svg" height="400"/>
