@@ -28,6 +28,10 @@
   <br>
 </p>
 
+## Wakatime Stats
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tassia_dossantos)
+
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
 <p align="center" style="text-decoration:none">
