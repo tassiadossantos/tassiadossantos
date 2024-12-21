@@ -27,6 +27,12 @@
   <br>
 </p>
 
+## 🎮 Diário de Gameplay
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
 <p align="center" style="text-decoration:none">
