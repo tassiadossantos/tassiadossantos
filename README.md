@@ -28,37 +28,6 @@
   <br>
 </p>
 
-<h4 align="center">📊 Métricas de Desenvolvimento</h4>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 13 December 2024 - To: 20 December 2024
-
-Total Time: 1 hr 49 mins
-
-TypeScript    1 hr 33 mins    █████████████████████▒░░░   85.13 %
-JSON          11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-TSConfig      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-JavaScript    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-```
-<details>
-  <summary><b>📈 Estatísticas Detalhadas</b></summary>
-  
-  <h4>💻 Ambiente de Desenvolvimento</h4>
-  
-  ![Métricas WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=tassia_dossantos&layout=compact&theme=gotham&hide_border=true&custom_title=Tempo%20de%20Codificação)
-  
-  <h4>🔥 Atividade Semanal</h4>
-  
-  ![Gráfico de Atividade](https://wakatime.com/share/@tassia_dossantos/activity.svg)
-  
-  <h4>🌟 Linguagens da Semana</h4>
-  
-  ![Linguagens](https://wakatime.com/share/@tassia_dossantos/languages.svg)
-</details>
-<!--END_SECTION:waka-->
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
 <p align="center" style="text-decoration:none">
