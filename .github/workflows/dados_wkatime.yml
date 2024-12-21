@@ -1,16 +1,26 @@
-name: Work Stats Readme
+name: Métricas de Café e Código
 
 on:
-  workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    - cron: '0 */4 * * *'  # Atualiza a cada 4 xícaras de café
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Calcular quanto café virou código
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master 
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: true
+          BLOCKS: ☕︎□
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          LANG_COUNT: 10
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
+          SHOW_LANGUAGE_PER_REPO: true
