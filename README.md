@@ -28,9 +28,29 @@
   <br>
 </p>
 
-## Wakatime Stats
+## 📊 Wakatime Stats
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tassia_dossantos)
+
+### ⏱️ Tempo de Codificação
+
+- **Total de Horas Codificadas:** 50h
+- **Linguagem mais Utilizada:** JavaScript
+
+### 🌟 Projetos
+
+- **Projeto A:** 20h
+- **Projeto B:** 15h
+- **Projeto C:** 15h
+
+### 🖥️ Editores
+
+- **VS Code:** 40h
+- **IntelliJ:** 10h
+
+### 📅 Gráfico de Atividade
+
+<img src="https://wakatime.com/share/@tassia_dossantos/e7d9b7e8-6f3f-4dce-9f3b-8e5b8d5d5c5e.svg" alt="Wakatime Activity Graph" />
 
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
