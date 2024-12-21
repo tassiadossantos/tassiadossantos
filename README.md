@@ -85,7 +85,7 @@ Porque ultrapassamos o nível de 9000 e entramos no reino do absurdo.<br><br>
 Através da arte milenar de transformar decisões simples em debates filosóficos.<br><br>
 <p align="center">
 <b>O que são "Bugs Features"?</b><br>
-São aqueles momentos mágicos em que um erro se torna a funcionalidade mais querida pelos usuários.<br><br>
+São aqueles momentos incríveis em que um erro se torna a funcionalidade mais querida pelos usuários.<br><br>
 <p align="center">
 <b>Como atingir o nível Expert em Procrastinação Produtiva?</b><br>
 Reorganizando sua lista de tarefas enquanto ignora a tarefa principal, obviamente.<br><br>
