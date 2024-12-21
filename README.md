@@ -35,8 +35,8 @@
 <h3 align="center">⚡ Métricas do Multiverso Tecnológico 2.0 ⚡</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Poder_Computacional-9001+-FF0000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3R" />
-  <img src="https://img.shields.io/badge/Bugs_Eliminados-∞+1-blueviolet?style=for-the-badge&logo=bug" />
+  <img src="https://img.shields.io/badge/Poder_Computacional-9001+-FF0000?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bugs_Eliminados-∞+1-blueviolet?style=for-the-badge&logo=material-design-icons&logoColor=white" />
   <img src="https://img.shields.io/badge/Café_Consumido-∞_litros/seg-brown?style=for-the-badge&logo=buymeacoffee&logoColor=golden&labelColor=darkred" />
   <img src="https://img.shields.io/badge/WTFs_por_Minuto-42-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Compilações_Falhas-0-success?style=for-the-badge&logo=checkmarx" />
