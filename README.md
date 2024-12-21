@@ -27,8 +27,16 @@
   <br>
 </p>
 
+## 💻 Métricas de Desenvolvimento (Porque até os bugs precisam ser quantificados)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tempo_de_Debug-Infinito_e_Além-ff0000?style=for-the-badge&logo=wakatime&logoColor=white" />
+  <img src="https://img.shields.io/badge/Código_Limpo-404_Not_Found-00ff00?style=for-the-badge&logo=codecov&logoColor=white" />
+  <img src="https://img.shields.io/badge/Café_por_Linha-Overflow-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+</p>
 
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
