@@ -13,7 +13,6 @@
 </p>
 
 
-
 <p align="left">👩‍💻 Estudante de Ciência da Computação, sempre pronta para encarar desafios e aprender algo novo (com um café ao lado, claro). Paixão infinita por tecnologia e uma relação de amor e ódio com bugs. Atualmente, foco no aprendizado em Segurança Ofensiva, DevOps e Cybersecurity. Sempre buscando transformar problemas complexos em soluções criativas.</p>
 
 <p align="center"> <b>🔒 #SegurançaCibernética | 🚀 #DevOps | 📖 #AprendizadoContínuo</b></p>
