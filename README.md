@@ -1,4 +1,3 @@
-
 <h3 align="center">🎮 Jogadora do Time Tecnologia, Nível: Exploradora 🚀</h3>
 
 <p align="center">
@@ -11,6 +10,7 @@
 <img src="https://img.shields.io/github/issues-pr/tassiadossantos/tassiadossantos?style=for-the-badge&logo=git&logoColor=white&color=32CD32&label=Pull%20Requests" height="25"/>
 <img src="https://img.shields.io/badge/Code_Reviews-20+-FF4500?style=for-the-badge&logo=reviewboard&logoColor=white" height="25"/>
 </p>
+
 
 
 <p align="left">👩‍💻 Estudante de Ciência da Computação, sempre pronta para encarar desafios e aprender algo novo (com um café ao lado, claro). Paixão infinita por tecnologia e uma relação de amor e ódio com bugs. Atualmente, foco no aprendizado em Segurança Ofensiva, DevOps e Cybersecurity. Sempre buscando transformar problemas complexos em soluções criativas.</p>
@@ -26,33 +26,11 @@
   <br>
   <br>
 </p>
-
-## 💻 Métricas de Desenvolvimento (Porque até os bugs precisam ser quantificados)
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 18 December 2024 - To: 21 December 2024
-
-Total Time: 1 hr 51 mins
-
-TypeScript    1 hr 34 mins    □□□□□□□□□□□□□□□□□□□□□☕☕☕☕   84.91 %
-JSON          11 mins         □□︎☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕   10.45 %
-TSConfig      2 mins          ︎☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕   02.51 %
-CSS           0 secs          ☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕   00.82 %
-JavaScript    0 secs          ☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕   00.71 %
-HTML          0 secs          ☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕   00.54 %
-Image (svg)   0 secs          ☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕   00.07 %
-```
-
-<!--END_SECTION:waka-->
-
+  
 <p align="center">
-  <img src="https://img.shields.io/badge/Tempo_de_Debug-Infinito_e_Além-ff0000?style=for-the-badge&logo=wakatime&logoColor=white" />
-  <img src="https://img.shields.io/badge/Código_Limpo-404_Not_Found-00ff00?style=for-the-badge&logo=codecov&logoColor=white" />
-  <img src="https://img.shields.io/badge/Café_por_Linha-Overflow-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
-</p>
-
+  🔍 Minha meta? Resolver problemas complexos e transformar ideias criativas em soluções reais.
+  </p> 
+ 
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
 <p align="center" style="text-decoration:none">
@@ -82,5 +60,3 @@ Image (svg)   0 secs          ☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕☕�
   <a href="#" style="text-decoration:none"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" height="25"/></a>
 </p>
 <h5 align="center">Direitos Autorais ©2024 por Tassia dos Santos | Todos os Direitos Reservados</h5>
-
-
