@@ -13,3 +13,15 @@ jobs:
       - uses: athul/waka-readme@master 
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true 
+          BLOCKS: 🟦🟨🟩🟦⬜
+          TIME_RANGE: all_time 
+          LANG_COUNT: 10 
+          SHOW_TIME: true 
+          SHOW_TOTAL: true
+          CODE_LANG: txt
+          COMMITTER_NAME: GitHubActionBot 
+          AUTHOR_NAME: Tassia dos Santos Silva
+          API_BASE_URL: https://wakatime.com/api
+          REPOSITORY: tassiadossantos/tassiadossantos
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
