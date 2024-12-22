@@ -1,21 +1,29 @@
 name: WakaTime Status Update
+
 on:
-  schedule:
-    - cron: '0 */6 * * *'
+  # Trigger manually or based on a schedule
   workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+
 jobs:
   update-stats:
+    name: WakaTime Status Update
     runs-on: ubuntu-latest
+    
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: true
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
+          SHOW_TITLE: true 
           BLOCKS: 🟦🟨🟩🟦⬜
           THEME: outrun
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          LANG_COUNT: 6
+          TIME_RANGE: all_time 
+          LANG_COUNT: 10 
+          SHOW_TIME: true 
+          SHOW_TOTAL: true 
           COMPACT_LAYOUT: true
           CODE_LANG: txt
+          COMMITTER_NAME: GitHubActionBot 
+          AUTHOR_NAME: Tassia dos Santos Silva
