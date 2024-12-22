@@ -102,14 +102,9 @@ Porque ninguém sabe quando foi escrito, por quem, ou por quê. É um mistério 
 ```txt
 From: 15 December 2024 - To: 22 December 2024
 
-Total Time: 1 hr 49 mins
+Total Time: 0 secs
 
-TypeScript    1 hr 33 mins    ■■■■■■■■■■■■■■■■■■■■■⬜⬛⬛⬛   85.13 %
-JSON          11 mins         ■■□⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   10.64 %
-TSConfig      2 mins          □⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   02.55 %
-JavaScript    0 secs          ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   00.72 %
-HTML          0 secs          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   00.55 %
-CSS           0 secs          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   00.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
