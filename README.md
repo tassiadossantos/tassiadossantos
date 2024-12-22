@@ -98,6 +98,15 @@ Porque ninguém sabe quando foi escrito, por quem, ou por quê. É um mistério 
 <h3 align="center">🚀 Minha Jornada Semanal no Multiverso do Código</h3>
 <h4 align="center">(ou como eu chamo: "A Semana em que o Café Salvou o Projeto")</h4><br>
 <!--START_SECTION:waka-->
+
+```txt
+From: 15 December 2024 - To: 22 December 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
