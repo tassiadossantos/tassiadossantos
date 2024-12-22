@@ -98,7 +98,9 @@ Porque ninguém sabe quando foi escrito, por quem, ou por quê. É um mistério 
 <h3 align="center">🚀 Minha Jornada Semanal no Multiverso do Código</h3>
 <h4 align="center">(ou como eu chamo: "A Semana em que o Café Salvou o Projeto")</h4><br>
 
- 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
 
 <p align="center" style="text-decoration:none">
