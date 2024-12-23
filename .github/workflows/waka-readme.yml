@@ -19,7 +19,7 @@ jobs:
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
-          CODE_LANG: txt
+          CODE_LANG: rust
           COMMITTER_NAME: GitHubActionBot
           AUTHOR_NAME: Tassia dos Santos Silva
           API_BASE_URL: https://wakatime.com/api
