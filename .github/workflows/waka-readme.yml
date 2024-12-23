@@ -25,3 +25,4 @@ jobs:
           API_BASE_URL: https://wakatime.com/api
           REPOSITORY: tassiadossantos/tassiadossantos
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          LOCALE: pt_BR
