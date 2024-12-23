@@ -100,7 +100,7 @@ Porque ninguém sabe quando foi escrito, por quem, ou por quê. É um mistério 
 
  <!--START_SECTION:waka-->
 
-```txt
+```rust
 From: 18 December 2024 - To: 23 December 2024
 
 Total Time: 4 hrs 44 mins
