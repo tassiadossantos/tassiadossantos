@@ -101,17 +101,17 @@ Porque ninguém sabe quando foi escrito, por quem, ou por quê. É um mistério 
  <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2024 - To: 22 December 2024
+From: 18 December 2024 - To: 23 December 2024
 
-Total Time: 1 hr 49 mins
+Total Time: 3 hrs 2 mins
 
-TypeScript   1 hr 11 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨🟨🟨🟨🟨   65.18 %
-Bash         17 mins         🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   16.13 %
-TSConfig     11 mins         🟩🟩🟪🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   10.41 %
-JSON         3 mins          🟦🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   02.91 %
-CSS          2 mins          🟪🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   02.40 %
-JavaScript   2 mins          🟪🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   02.25 %
-Other        0 secs          🟧🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   00.73 %
+TypeScript   2 hrs 24 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟦🟨🟨🟨🟨🟨   79.09 %
+Bash         17 mins         🟩🟩🟪🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   09.68 %
+TSConfig     11 mins         🟩🟪🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   06.25 %
+JSON         3 mins          🟪🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   01.75 %
+CSS          2 mins          🟧🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   01.44 %
+JavaScript   2 mins          🟧🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   01.35 %
+Other        0 secs          🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   00.44 %
 ```
 
 <!--END_SECTION:waka-->
