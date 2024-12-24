@@ -9,8 +9,23 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: athul/waka-readme@master
+      # Etapa de checkout do repositório
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      # Etapa para validar variáveis de ambiente
+      - name: Validate Environment Variables
+        run: |
+          if [ -z "${{ secrets.WAKATIME_API_KEY }}" ]; then
+            echo "WAKATIME_API_KEY is not set. Exiting."
+            exit 1
+          fi
+
+      # Etapa principal para atualizar o README
+      - name: Update README with WakaTime Metrics
+        uses: athul/waka-readme@master
         with:
           # Configurações de API e tokens
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -42,4 +57,21 @@ jobs:
           COMMITTER_NAME: GitHubActionBot
           AUTHOR_NAME: Tassia dos Santos Silva
           REPOSITORY: tassiadossantos/tassiadossantos
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics on $(date +'%Y-%m-%d %H:%M:%S')
+
+      # Etapa para verificar se houve mudanças no README
+      - name: Check for README Changes
+        run: |
+          if git diff --exit-code README.md; then
+            echo "No changes in README.md. Exiting."
+            exit 0
+          fi
+
+      # Etapa para fazer commit e push das mudanças
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated waka-readme graph with new metrics on $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
