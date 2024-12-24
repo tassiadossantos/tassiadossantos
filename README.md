@@ -105,19 +105,7 @@ Porque ninguém sabe quando foi escrito, por quem, ou por quê. É um mistério 
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-40.0%20thousand%20linhas%20de%20c%C3%B3digo-blue)
 
-**🐱 Meus dados no GitHub** 
-
-> 📦 25.0 kB Usado no armazenamento do GitHub 
- > 
-> 🏆 205 Contribuições no ano de 2024
- > 
-> 🚫 Não aberto para contratação
- > 
-> 📜 7 Repositórios Públicos 
- > 
-> 🔑 0 Repositórios Privados 
- > 
-**Eu sou noturno 🦉** 
+**Eu sou noturna 🦉** 
 
 ```text
 🌞 Manhã                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
@@ -125,7 +113,7 @@ Porque ninguém sabe quando foi escrito, por quem, ou por quê. É um mistério 
 🌃 Noite                  134 commits         █████████████████░░░░░░░░   68.02 % 
 🌙 Madrugada              1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
-📅 **Sou mais produtivo em Sexta-Feira** 
+📅 **Sou mais produtiva às Sextas-Feiras** 
 
 ```text
 Segunda-Feira            14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
