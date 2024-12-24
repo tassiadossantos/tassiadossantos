@@ -99,15 +99,88 @@ Porque ninguém sabe quando foi escrito, por quem, ou por quê. É um mistério 
 <h4 align="center">(ou como eu chamo: "A Semana em que o Café Salvou o Projeto")</h4><br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2052%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-832-blue)
+
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-40.0%20thousand%20linhas%20de%20c%C3%B3digo-blue)
+
+**🐱 Meus dados no GitHub** 
+
+> 📦 25.0 kB Usado no armazenamento do GitHub 
+ > 
+> 🏆 205 Contribuições no ano de 2024
+ > 
+> 🚫 Não aberto para contratação
+ > 
+> 📜 7 Repositórios Públicos 
+ > 
+> 🔑 0 Repositórios Privados 
+ > 
+**Eu sou noturno 🦉** 
 
 ```text
-From: 18 December 2024 - To: 23 December 2024
+🌞 Manhã                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+🌆 Tarde                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+🌃 Noite                  134 commits         █████████████████░░░░░░░░   68.02 % 
+🌙 Madrugada              1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+```
+📅 **Sou mais produtivo em Sexta-Feira** 
 
-Total Time: 4 hrs 44 mins
-
-Other         3 hrs 58 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟪🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   45.53 %
+```text
+Segunda-Feira            14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Terça-Feira              13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Quarta-Feira             26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Quinta-Feira             30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Sexta-Feira              51 commits          ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+Sábado                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Domingo                  36 commits          █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
 ```
 
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+🕑︎ Fuso horário: America/Sao_Paulo
+
+💬 Linguagens de programação: 
+Other                    7 hrs 44 mins       ████████████████░░░░░░░░░   62.10 % 
+TypeScript               2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Image (svg)              1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+TSConfig                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+
+🔥 Editores: 
+Chrome                   9 hrs 24 mins       ███████████████████░░░░░░   75.48 % 
+VS Code                  3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+
+🐱‍💻 Projetos: 
+arcnet                   10 hrs 54 mins      ██████████████████████░░░   87.54 % 
+tassiadossantos          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+waka-readme              28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+community                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+waka-readme-stats        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+💻 Sistema operacional: 
+Windows                  12 hrs 27 mins      █████████████████████████   100.00 % 
+```
+
+**Eu geralmente programo em HTML** 
+
+```text
+HTML                     3 repos             ███████████████░░░░░░░░░░   60.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C                        1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+**Linha do tempo**
+
+![Lines of Code chart](https://raw.githubusercontent.com/tassiadossantos/tassiadossantos/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/12/2024 13:18:22 UTC
 <!--END_SECTION:waka-->
 
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
