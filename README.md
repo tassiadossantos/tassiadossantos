@@ -99,15 +99,6 @@ Porque ninguém sabe quando foi escrito, por quem, ou por quê. É um mistério 
 <h4 align="center">(ou como eu chamo: "A Semana em que o Café Salvou o Projeto")</h4><br>
 
 <!--START_SECTION:waka-->
-
-```text
-From: 18 December 2024 - To: 24 December 2024
-
-Total Time: 4 hrs 44 mins
-
-Other         7 hrs 7 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   60.03 %
-```
-
 <!--END_SECTION:waka-->
 
 <h4 align="center">💻 Linguagens, Frameworks e Tecnologias</h4><br>
