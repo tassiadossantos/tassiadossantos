@@ -95,7 +95,7 @@ Porque ninguém sabe quando foi escrito, por quem, ou por quê. É um mistério 
 </p>
 
 <p align="center"><i>Aviso: Qualquer semelhança com métricas reais é mera coincidência. Exceto o café, esse é real.</i></p><br>
-<h3 align="center">🚀 Minha Jornada Semanal no Multiverso do Código</h3>
+<h3 align="center">🚀 Minha Jornada no Multiverso do Código</h3>
 <h4 align="center">(ou como eu chamo: "A Semana em que o Café Salvou o Projeto")</h4><br>
 
 <!--START_SECTION:waka-->
