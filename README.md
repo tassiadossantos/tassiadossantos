@@ -129,4 +129,8 @@ Porque ninguém sabe quando foi escrito, por quem, ou por quê. É um mistério 
   <a href="#" style="text-decoration:none"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white" height="25"/></a>
   <a href="#" style="text-decoration:none"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" height="25"/></a>
 </p>
-<h5 align="center">Direitos Autorais ©2024 por Tassia dos Santos | Todos os Direitos Reservados</h5>
+<h5 align="center">Direitos Autorais ©2025 por Tassia dos Santos | Todos os Direitos Reservados</h5>
+
+
+
+ 
