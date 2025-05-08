@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30"/> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/> 
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-%23FF7A00?style=for-the-badge&logo=figma&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/UI%20Design-%23FF7A00?style=for-the-badge&logo=figma&logoColor=white" height="30"/>
 </p>
 
 <h3>🎮 Jogadora do Time Tecnologia, Nível: Exploradora 🚀</h3>
