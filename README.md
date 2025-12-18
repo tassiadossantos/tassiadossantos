@@ -37,34 +37,16 @@
 </p>
 
 <h3>🚀 Projetos em Destaque 🚀</h3>
-  <strong>✨ Projeto Alpha: Plataforma Interativa de E-learning ✨</strong>
+  <strong>🌾 Projeto: Plataforma de Rastreabilidade Agrícola com Blockchain</strong>
   <br>
   <p align="left">
-    <strong>Função:</strong> Desenvolvedora Front-end Líder e UI Designer.<br>
-    <strong>Descrição:</strong> Responsável pelo design da interface e experiência do usuário (UI/UX) utilizando Figma, e pelo desenvolvimento completo do front-end com React, TypeScript e Styled-Components. Criei um sistema de design coeso, componentes reutilizáveis e dashboards interativos para alunos e instrutores.<br>
-    <strong>Tecnologias:</strong> React, TypeScript, Figma, Styled-Components, Zustand.<br>
-    <strong>Resultados:</strong> Aumento de 30% no engajamento dos usuários e feedback positivo sobre a usabilidade da plataforma.
+    <strong>Função:</strong> Desenvolvedora de software<br>
+    <strong>Descrição:</strong> Responsável pelo desenvolvimento completo do protótipo de uma plataforma enterprise B2B para rastreabilidade de produtos agrícolas. Projetei a arquitetura do sistema integrando blockchain (Polygon) para garantir imutabilidade dos dados. Desenvolvi o front-end com React e TypeScript, criando um sistema de design com shadcn/ui, formulários multi-etapas para registro de lotes, dashboards interativos com visualização de métricas e componente de verificação on-chain vs off-chain. No back-end, implementei API RESTful com Node.js/Express e integração com PostgreSQL usando Drizzle ORM.<br>
+    <strong>Tecnologias:</strong> React, TypeScript, Node.js, Express, PostgreSQL, Drizzle ORM, TailwindCSS, shadcn/ui, Polygon (Ethereum L2), Vite, Zod, React Hook Form, TanStack Query.<br>
+    <strong>Resultados:</strong> Sistema capaz de rastrear 4 etapas da cadeia produtiva (Insumo → Aplicação → Colheita → Transporte) com verificação criptográfica via blockchain, garantindo transparência e combate a fraudes no agronegócio.
   </p>
 <br>
-  <strong>🎨 Projeto Beta: Redesign de Aplicativo Mobile de Bem-Estar 🎨</strong>
-  <br>
-  <p align="left">
-    <strong>Função:</strong> UI/UX Designer.<br>
-    <strong>Descrição:</strong> Conduzi a pesquisa de usuário, criei wireframes, protótipos interativos no Figma e desenvolvi o novo design system para um aplicativo mobile focado em bem-estar. O objetivo foi modernizar a interface e melhorar a jornada do usuário.<br>
-    <strong>Tecnologias:</strong> Figma, Adobe XD, Miro.<br>
-    <strong>Resultados:</strong> Melhoria significativa na avaliação da App Store (de 3.5 para 4.7 estrelas) após o lançamento do novo design.
-  </p>
-<br>
-  <strong>💻 Projeto Gamma: Website Institucional Dinâmico 💻</strong>
-  <br>
-  <p align="left">
-    <strong>Função:</strong> Desenvolvedora Front-end.<br>
-    <strong>Descrição:</strong> Desenvolvi um website institucional responsivo e otimizado para performance, utilizando React e Gatsby. Implementei animações sutis e integrações com APIs de terceiros para conteúdo dinâmico.<br>
-    <strong>Tecnologias:</strong> React, Gatsby, JavaScript (ES6+), GraphQL, Netlify.<br>
-    <strong>Resultados:</strong> Redução de 50% no tempo de carregamento da página e aumento no tráfego orgânico.
-  </p>
-<br>
-
+🔗 GitHub: https://github.com/tassiadossantos/rastreabilidade-blockchain-
 <h3>⚡ Métricas do Multiverso Tecnológico 2.0 ⚡</h3>
   <br>
   <p align="left">
