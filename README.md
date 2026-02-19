@@ -47,7 +47,7 @@
     <strong>Resultados:</strong> Plataforma com CRUD completo de PGR/empresas/treinamentos, autenticação e isolamento multi-tenant, alertas dinâmicos de vencimento e painel com dados reais, aumentando confiabilidade operacional e padronização dos processos de SST.<br>
     <em>💡 Este projeto foi desenvolvido de acordo com minhas instruções, utilizando IA como ferramenta de apoio no processo de criação.</em>
    </p>
-🔗 GitHub: https://github.com/tassiadossantos/rastreabilidade-blockchain-    
+🔗 GitHub: https://github.com/tassiadossantos/consultoria-sst   
 <br>
 <br>
 
