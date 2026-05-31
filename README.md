@@ -38,16 +38,16 @@
 
 <h3>🚀 Projetos em Destaque 🚀</h3>
 
-  <strong>🏥 Projeto: Plataforma de Gestão de SST (PGR, Treinamentos e Alertas)</strong>
+  <strong>🛡️ Projeto: Site institucional para consultoria em SST</strong>
   <br>
   <p align="left">
-    <strong>Função:</strong> Desenvolvedora de software full stack<br>
-    <strong>Descrição:</strong> Responsável pelo desenvolvimento end-to-end de uma plataforma web para consultoria em Saúde e Segurança do Trabalho. Modelei a arquitetura com backend Node.js/Express e PostgreSQL (Supabase), implementando API REST multi-tenant com autenticação JWT, controle de acesso por tenant e geração de PDF de PGR. No front-end, desenvolvi a aplicação em React + TypeScript com dashboards operacionais, fluxo de criação/edição de PGR, gestão de treinamentos e componentes reutilizáveis de UI. Também implementei alertas de vencimento baseados em data (janela de 7 dias) com regra centralizada no backend para manter consistência entre Dashboard e telas operacionais, além de integração com notícias oficiais do MTE no painel.<br>
-    <strong>Tecnologias:</strong> React, TypeScript, Node.js, Express, PostgreSQL (Supabase), Drizzle ORM, Vite, TanStack Query, Wouter, TailwindCSS, Radix UI, Zod, Vitest, JWT.<br>
-    <strong>Resultados:</strong> Plataforma com CRUD completo de PGR/empresas/treinamentos, autenticação e isolamento multi-tenant, alertas dinâmicos de vencimento e painel com dados reais, aumentando confiabilidade operacional e padronização dos processos de SST.<br>
+    <strong>Função:</strong> Desenvolvedora front-end com integração full stack<br>
+    <strong>Descrição:</strong> Responsável pelo desenvolvimento de um site institucional e comercial para uma consultoria em Segurança e Saúde do Trabalho, com foco em presença digital, apresentação de serviços e geração de leads. Desenvolvi a interface em React + TypeScript com páginas de Home, Serviços, detalhes de serviço, Blog, Checklist de Conformidade, formulário de orçamento em etapas, página de contato, termos de uso e política de privacidade. Também implementei uma calculadora educativa de multas baseada em regras de SST, chamadas para WhatsApp, conteúdo de blog em Markdown e integração com API Express para registro de contatos e consentimento LGPD.<br>
+    <strong>Tecnologias:</strong> React, TypeScript, Vite, Wouter, TailwindCSS, Radix UI, Framer Motion, Lucide React, React Markdown, TanStack Query, Node.js, Express, PostgreSQL, Drizzle ORM, Zod e Vercel.<br>
+    <strong>Resultados:</strong> Site responsivo com navegação institucional, vitrine de serviços em SST, blog com conteúdo educativo, checklist diagnóstico, simulação de multas e formulário de orçamento inteligente, fortalecendo a autoridade digital da consultoria e facilitando a captação de clientes por WhatsApp e e-mail.<br>
     <em>💡 Este projeto foi desenvolvido de acordo com minhas instruções, utilizando IA como ferramenta de apoio no processo de criação.</em>
    </p>
-🔗 GitHub: https://github.com/tassiadossantos/softwareup_sst.git
+🔗 GitHub: https://github.com/tassiadossantos/escudo-consultoria
 <br>
 <br>
 
