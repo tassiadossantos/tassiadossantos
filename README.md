@@ -107,8 +107,8 @@ Acredito que **código limpo não é perfeccionismo, é respeito pelo próximo d
 Se você procura uma desenvolvedora que entrega **produto, não só código**, me encontra aqui:
 
 <p align="left">
-  <a href="https://github.com/tassiadossantos" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="30"/>
+  <a href="https://www.linkedin.com/in/tassiadossantos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="30"/>
   </a>
 </p>
 
