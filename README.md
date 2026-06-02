@@ -1,147 +1,119 @@
+<h1 align="center">Olá, eu sou Tassia dos Santos 👋</h1>
 
+<h3 align="center">
+  Front-end Developer · UI Design · React · TypeScript
+</h3>
 
-<h3>🎮 Jogadora do Time Tecnologia, Nível: Exploradora 🚀</h3>
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/github/commit-activity/w/tassiadossantos/tassiadossantos?style=for-the-badge&logo=git&logoColor=white&color=42b883&label=Commits    " height="25"/>
-  <img src="https://img.shields.io/github/stars/tassiadossantos?style=for-the-badge&logo=star&logoColor=white&color=FFD700&label=Stars    " height="25"/>
-  <img src="https://img.shields.io/github/followers/tassiadossantos?style=for-the-badge&logo=github&logoColor=white&color=4169E1&label=Followers    " height="25"/>
-  <img src="https://img.shields.io/badge/Repositories-purple?style=for-the-badge&logo=github&logoColor=white&color=8A2BE2    " height="25"/>
-  <img src="https://img.shields.io/badge/Experience-3_Years-FF1493?style=for-the-badge&logo=dev.to&logoColor=white    " height="25"/>
-  <img src="https://img.shields.io/github/issues/tassiadossantos/tassiadossantos?style=for-the-badge&logo=gitbook&logoColor=white&color=FFA500&label=Issues    " height="25"/>
-  <img src="https://img.shields.io/github/issues-pr/tassiadossantos/tassiadossantos?style=for-the-badge&logo=git&logoColor=white&color=32CD32&label=Pull%20Requests    " height="25"/>
-  <img src="https://img.shields.io/badge/Code_Reviews-20+-FF4500?style=for-the-badge&logo=reviewboard&logoColor=white    " height="25"/>
+<p align="center">
+  <em>
+    Transformo ideias complexas em interfaces que as pessoas realmente querem usar.
+  </em>
 </p>
 
-<p align="left">💡 Como Desenvolvedora Front-end com foco em UI Design, sou especialista na criação de interfaces de usuário dinâmicas e responsivas. Minhas principais stacks incluem React, JavaScript (ES6+), e TypeScript. Tenho experiência em transformar conceitos de design (Figma) em componentes reutilizáveis e código limpo, sempre buscando a melhor experiência para o usuário e performance da aplicação. Desenvolvo desde landing pages interativas a dashboards complexos, com paixão por resolver desafios de usabilidade e entregar produtos digitais de alta qualidade.</p>
+---
 
-<p align="left">👩‍💻 Estudante de Ciência da Computação, sempre pronta para encarar desafios e aprender algo novo (com um café ao lado, claro). Paixão infinita por tecnologia e uma relação de amor e ódio com bugs. Atualmente, meu foco está em aprimorar minhas habilidades em UI Design, aprofundar meu conhecimento em React JS e explorar as melhores práticas no desenvolvimento de interfaces de usuário dinâmicas e responsivas utilizando JavaScript (ES6+) e TypeScript, sempre aplicando princípios de clean code e componentização. Sempre buscando transformar problemas complexos em soluções criativas.</p>
+## Sobre mim
 
-<p align="left"> <b>🎨 #UIDesign | 💻 #ReactJS | ✨ #FrontendDeveloper | 📖 #AprendizadoContínuo</b></p>
+Sou **Desenvolvedora Front-end** com foco em **UI Design**, estudante de Ciência da Computação e alguém que acredita que um bom produto começa com uma interface que faz sentido para quem a usa.
+
+Trabalho com **React**, **TypeScript** e **Node.js** para criar aplicações do zero — da concepção ao deploy em produção. Minha casa é o front-end, mas não tenho medo de atravessar a porta do back-end quando o projeto pede: já implementei APIs REST, integração com banco de dados e até rastreabilidade via **blockchain**.
+
+O que me diferencia? Não entrego apenas código que funciona. Entrego **experiências que convertem**, com atenção a cada detalhe de usabilidade, acessibilidade e performance.
+
+> *"Bons desenvolvedores resolvem o problema. Ótimos desenvolvedores fazem o usuário nem perceber que havia um problema."*
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🛡️ Consultoria SST — Site Institucional & Geração de Leads
+> **React + TypeScript + Node.js + PostgreSQL + Vercel**
+
+Construí do zero a presença digital completa de uma consultoria em Segurança e Saúde do Trabalho — um segmento técnico que exige credibilidade antes de qualquer conversão.
+
+**O que há por baixo do capô:**
+- Arquitetura front-end componentizada com **React + TypeScript + Vite**
+- Formulário de orçamento **multi-etapas com validação inteligente** (Zod + React Hook Form)
+- **Calculadora de multas trabalhistas** baseada em regras reais de SST — um diferencial competitivo que educa o lead antes de vender
+- Blog com renderização de **conteúdo Markdown dinâmico**
+- API REST própria com **Express + PostgreSQL + Drizzle ORM** para captura e gestão de leads
+- Conformidade com **LGPD** — registro de consentimento no banco de dados
+- Animações com **Framer Motion** e design responsivo com **TailwindCSS + Radix UI**
+
+**Resultado:** uma plataforma institucional que atua como vendedor 24h — gerando leads qualificados por WhatsApp e e-mail enquanto fortalece a autoridade digital da consultoria.
+
+🔗 [Ver repositório no GitHub](https://github.com/tassiadossantos/escudo-consultoria)
+
+---
+
+### 🌾 AgroTech — Plataforma de Rastreabilidade com Blockchain
+> **React + TypeScript + Node.js + PostgreSQL + Polygon (Ethereum L2)**
+
+Protótipo de uma plataforma **enterprise B2B** para rastreabilidade de produtos agrícolas usando tecnologia blockchain — porque no agronegócio, transparência não é opcional.
+
+**Arquitetura que vale a pena ver:**
+- Rastreamento de **4 etapas da cadeia produtiva**: Insumo → Aplicação → Colheita → Transporte
+- Integração com a **rede Polygon** para imutabilidade criptográfica dos registros
+- Componente de **verificação on-chain vs off-chain** para auditoria em tempo real
+- **Dashboards interativos** com métricas e visualizações de dados
+- Formulários multi-etapas para registro de lotes com **React Hook Form + Zod**
+- API RESTful com **Node.js/Express** e persistência em **PostgreSQL via Drizzle ORM**
+- Sistema de design coerente com **shadcn/ui + TailwindCSS**
+
+**Resultado:** sistema capaz de garantir rastreabilidade completa e verificável criptograficamente — combatendo fraudes e aumentando a confiança em toda a cadeia produtiva.
+
+🔗 [Ver repositório no GitHub](https://github.com/tassiadossantos/rastreabilidade-blockchain-)
+
+---
+
+## 🧰 Stack Tecnológica
+
+### Front-end
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-9135FF.svg?style=for-the-badge&logo=Vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF.svg?style=for-the-badge&logo=Framer&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618.svg?style=for-the-badge&logo=Radix-UI&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-000000.svg?style=for-the-badge&logo=TanStack&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white)
+![Lucide React](https://img.shields.io/badge/Lucide%20React-F56565.svg?style=for-the-badge&logo=Lucide&logoColor=white)
+
+### Back-end & Banco de Dados
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Ferramentas & Versionamento
+![Git](https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)
+
+---
+
+## 💡 O que me move
+
+Estou em constante evolução, aprimorando minha capacidade de criar interfaces que sejam ao mesmo tempo **bonitas, funcionais e acessíveis**. Minha formação em Ciência da Computação me dá a base teórica para ir além do "funciona" — entendendo *por que* funciona e *como* pode funcionar melhor.
+
+Acredito que **código limpo não é perfeccionismo, é respeito pelo próximo desenvolvedor** — que pode ser eu mesma em três meses.
+
+---
+
+## 📬 Vamos conversar?
+
+Se você procura uma desenvolvedora que entrega **produto, não só código**, me encontra aqui:
 
 <p align="left">
-  🐛 Meu lema? "Se não tem bugs, cadê a graça?"
-</p>
-<p align="left">
-  🎯 Erros fazem parte da jornada (especialmente quando o código não compila de primeira). O importante é continuar evoluindo!
-</p>
-  
-<p align="left">
-  🔍 Minha meta? Resolver problemas complexos e transformar ideias criativas em soluções reais.
+  <a href="https://github.com/tassiadossantos" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="30"/>
+  </a>
 </p>
 
-<h3>🚀 Projetos em Destaque 🚀</h3>
+---
 
-  <strong>🛡️ Projeto: Site institucional para consultoria em SST</strong>
-  <br>
-  <p align="left">
-    <strong>Função:</strong> Desenvolvedora front-end com integração full stack<br>
-    <strong>Descrição:</strong> Responsável pelo desenvolvimento de um site institucional e comercial para uma consultoria em Segurança e Saúde do Trabalho, com foco em presença digital, apresentação de serviços e geração de leads. Desenvolvi a interface em React + TypeScript com páginas de Home, Serviços, detalhes de serviço, Blog, Checklist de Conformidade, formulário de orçamento em etapas, página de contato, termos de uso e política de privacidade. Também implementei uma calculadora educativa de multas baseada em regras de SST, chamadas para WhatsApp, conteúdo de blog em Markdown e integração com API Express para registro de contatos e consentimento LGPD.<br>
-    <strong>Tecnologias:</strong> React, TypeScript, Vite, Wouter, TailwindCSS, Radix UI, Framer Motion, Lucide React, React Markdown, TanStack Query, Node.js, Express, PostgreSQL, Drizzle ORM, Zod e Vercel.<br>
-    <strong>Resultados:</strong> Site responsivo com navegação institucional, vitrine de serviços em SST, blog com conteúdo educativo, checklist diagnóstico, simulação de multas e formulário de orçamento inteligente, fortalecendo a autoridade digital da consultoria e facilitando a captação de clientes por WhatsApp e e-mail.<br>
-    <em>💡 Este projeto foi desenvolvido de acordo com minhas instruções, utilizando IA como ferramenta de apoio no processo de criação.</em>
-   </p>
-🔗 GitHub: https://github.com/tassiadossantos/escudo-consultoria
-<br>
-<br>
-
-  <strong>🌾 Projeto: Plataforma de Rastreabilidade Agrícola com Blockchain</strong>
-  <br>
-  <p align="left">
-    <strong>Função:</strong> Desenvolvedora de software<br>
-    <strong>Descrição:</strong> Responsável pelo desenvolvimento completo do protótipo de uma plataforma enterprise B2B para rastreabilidade de produtos agrícolas. Projetei a arquitetura do sistema integrando blockchain (Polygon) para garantir imutabilidade dos dados. Desenvolvi o front-end com React e TypeScript, criando um sistema de design com shadcn/ui, formulários multi-etapas para registro de lotes, dashboards interativos com visualização de métricas e componente de verificação on-chain vs off-chain. No back-end, implementei API RESTful com Node.js/Express e integração com PostgreSQL usando Drizzle ORM.<br>
-    <strong>Tecnologias:</strong> React, TypeScript, Node.js, Express, PostgreSQL, Drizzle ORM, TailwindCSS, shadcn/ui, Polygon (Ethereum L2), Vite, Zod, React Hook Form, TanStack Query.<br>
-    <strong>Resultados:</strong> Sistema capaz de rastrear 4 etapas da cadeia produtiva (Insumo → Aplicação → Colheita → Transporte) com verificação criptográfica via blockchain, garantindo transparência e combate a fraudes no agronegócio.
-  </p>
-
-🔗 GitHub: https://github.com/tassiadossantos/rastreabilidade-blockchain-    
-
-<h3>⚡ Métricas do Multiverso Tecnológico 2.0 ⚡</h3>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Bugs_Features-Sim-yellowgreen?style=for-the-badge&logo=jira    " />
-    <img src="https://img.shields.io/badge/WTFs_por_Minuto-42-yellow?style=for-the-badge&logo=javascript    " />
-    <img src="https://img.shields.io/badge/Compila    ções_Falhas-0-success?style=for-the-badge&logo=checkmarx" />
-    <img src="https://img.shields.io/badge/Commits    _às_3AM-Muitos-red?style=for-the-badge&logo=nightcafe" />
-    <img src="https://img.shields.io/badge/Reun    iões_que_Poderiam_ser_Emails-9000%25-blue?style=for-the-badge&logo=zoom" />
-    <img src="https://img.shields.io/badge/Bugs_Eliminados    -∞+1-blueviolet?style=for-the-badge&logo=material-design-icons&logoColor=white" />
-    <img src="https://img.shields.io/badge/Stackoverflow_Copias-404-orange?style=for-the-badge&logo=stackoverflow    " />
-    <img src="https://img.shields.io/badge/Chamadas_de_API-Overload-red?style=for-the-badge&logo=postman    " />
-    <img src="https://img.shields.io/badge/Refator    ações_Prometidas-Nunca-green?style=for-the-badge&logo=git" />
-    <img src="https://img.shields.io/badge/Testes_Uni    tários-O_que_é_isso%3F-critical?style=for-the-badge&logo=jest" />
-    <img src="https://img.shields.io/badge/Poder_Computacional-9001+-FF0000?style=for-the-badge&logo=lightning&logoColor=white    " />
-    <img src="https://img.shields.io/badge/    Código_Legado-Mais_Velho_que_o_Universo-darkred?style=for-the-badge&logo=codacy" />
-    <img src="https://img.shields.io/badge/Ca    fé_Consumido-∞_litros/seg-brown?style=for-the-badge&logo=buymeacoffee&logoColor=golden&labelColor=darkred" />
-    <img src="https://img.shields.io/badge/    Nível_de_Ironia-Ultra_Instinto-blue?style=for-the-badge&logo=tesla" />
-    <img src="https://img.shields.io/badge/Deploys_em_Prod    ução-Não_testados-critical?style=for-the-badge&logo=docker" />
-    <img src="https://img.shields.io/badge/    Dívida_Técnica-Astronômica-purple?style=for-the-badge&logo=githubactions" />
-    <img src="https://img.shields.io/badge/Tabs_vs_Esp    aços-Guerra_Civil-lightgrey?style=for-the-badge&logo=visualstudiocode" />
-    <img src="https://img.shields.io/badge/Procastin    ação_Produtiva-Nível_Expert-orange?style=for-the-badge&logo=todoist" />
-    
-  </p>
-
-  <h4>🛠️Notas de Atualização 2.0🛠️</h4>  
-
-  <p align="left">
-  Melhorias e Novidades:
-  </p>
-
-  <p align="left">
-  • Poder Computacional agora em <b>9001+</b> (porque 9000 era muito mainstream)<br>
-  • Bugs Eliminados atualizados para <b>∞+1</b> (porque sempre há mais um)<br>
-  • Nova métrica: <b>Tabs vs Espaços</b> - monitorando a guerra civil dos desenvolvedores<br>
-  • Adicionado medidor de <b>Reuniões que Poderiam ser Emails</b> (atualmente em 9000%)<br>
-  • Nova categoria: <b>Bugs Features</b> - porque todo bug é uma oportunidade<br>
-  • Implementado o índice de <b>Procrastinação Produtiva</b> (nível Expert atingido)<br>
-  • Medidor de <b>Código Legado</b> adicionado (mais velho que o universo)<br>
-  • Nova métrica: <b>Testes Unitários</b> - com status "O que é isso?"
-  </p>
-<br>
-
-  <h3>🤔 FAQ do Multiverso 2.0 🤔</h3>
-  <br>
-  <p align="left">
-  <b>Por que o Poder Computacional está em 9001+?</b><br>
-  Porque ultrapassamos o nível de 9000 e entramos no reino do absurdo.<br><br>
-  <b>O que significa "Tabs vs Espaços - Guerra Civil"?</b><br>
-  É o conflito eterno que divide nações e equipes de desenvolvimento.<br><br>
-  <b>Como as reuniões chegaram a 9000% de "poderiam ser emails"?</b><br>
-  Através da arte milenar de transformar decisões simples em debates filosóficos.<br><br>
-  <b>O que são "Bugs Features"?</b><br>
-  São aqueles momentos incríveis em que um erro se torna a funcionalidade mais querida pelos usuários.<br><br>
-  <b>Como atingir o nível Expert em Procrastinação Produtiva?</b><br>
-  Reorganizando sua lista de tarefas enquanto ignora a tarefa principal, obviamente.<br><br>
-  <b>Por que o Código Legado é "Mais Velho que o Universo"?</b><br>
-  Porque ninguém sabe quando foi escrito, por quem, ou por quê. É um mistério cósmico.
-  </p>
-
-  <p align="left"><i>Aviso: Qualquer semelhança com métricas reais é mera coincidência. Exceto o café, esse é real.</i></p>
-<br>
-
-
-  <h3>💻 Linguagens, Frameworks e Tecnologias 💻</h3>
-  <h4>(ou como eu chamo: "A Semana em que o Café Salvou o Projeto")</h4><br>
-  <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black    " height="35"/>  
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white    " height="35"/>  
-  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white   " height="35"/> 
-  <img src="https://img.shields.io/badge/Vite-9135FF.svg?style=for-the-badge&logo=Vite&logoColor=white    " height="35"/>  
-  <img src="https://img.shields.io/badge/Radix%20UI-161618.svg?style=for-the-badge&logo=Radix-UI&logoColor=white    " height="35"/>  
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white  " height="35"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white  " height="35"/>
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF.svg?style=for-the-badge&logo=Framer&logoColor=white  " height="35"/>  
-  <img src="https://img.shields.io/badge/React%20Markdown-82BAGB.svg?style=for-the-badge&logo=React&logoColor=black" height="35"/>  
-  <img src="https://img.shields.io/badge/Lucide%20React-F56565.svg?style=for-the-badge&logo=Lucide&logoColor=white   " height="35"/>  
-  <img src="https://img.shields.io/badge/TanStack%20Query-000000.svg?style=for-the-badge&logo=TanStack&logoColor=white " height="35"/>  
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white " height="35"/>  
-  <img src="https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white " height="35"/>  
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white " height="35"/>  
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white " height="35"/>  
-  <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white " height="35"/>  
-  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white " height="35"/>  
-  </p>
-
-<br>
-<br>
-
-<h5>Direitos Autorais ©2026 por Tassia dos Santos | Todos os Direitos Reservados</h5>
+<p align="center">
+  <sub>© 2026 Tassia dos Santos · Todos os direitos reservados</sub>
+</p>
