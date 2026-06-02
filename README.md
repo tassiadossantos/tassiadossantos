@@ -1,10 +1,4 @@
-  <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black    " height="30"/>  
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white    " height="30"/>  
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white    " height="30"/>  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black    " height="30"/>  
-  <img src="https://img.shields.io/badge/UI%20Design-%23FF7A00?style=for-the-badge&logo=figma&logoColor=white    " height="30"/>
-</p>
+
 
 <h3>🎮 Jogadora do Time Tecnologia, Nível: Exploradora 🚀</h3>
 
@@ -127,19 +121,27 @@
 
   <h3>💻 Linguagens, Frameworks e Tecnologias 💻</h3>
   <h4>(ou como eu chamo: "A Semana em que o Café Salvou o Projeto")</h4><br>
-  <p align="left" style="text-decoration:none">
-    <a href="#" style="text-decoration:none"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black    " height="25"/></a>
-    <a href="#" style="text-decoration:none"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white    " height="25"/></a>
-    <a href="#" style="text-decoration:none"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB    " height="25"/></a>
-    <a href="#" style="text-decoration:none"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white    " height="25"/></a>
-    <a href="#" style="text-decoration:none"><img alt="Vite" src="https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white    " height="25"/></a>
-    <a href="#" style="text-decoration:none"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white    " height="25"/></a>
-    <a href="#" style="text-decoration:none"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white    " height="25"/></a>
-    <a href="#" style="text-decoration:none"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white    " height="25"/></a>
-    <a href="#" style="text-decoration:none"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?logo=yarn&logoColor=white    " height="25"/></a>
-    <a href="#" style="text-decoration:none"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white    " height="25"/></a>
-    <a href="#" style="text-decoration:none"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white    " height="25"/></a>
+  <p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black    " height="35"/>  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white    " height="35"/>  
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white   " height="35"/> 
+  <img src="https://img.shields.io/badge/Vite-9135FF.svg?style=for-the-badge&logo=Vite&logoColor=white    " height="35"/>  
+  <img src="https://img.shields.io/badge/Radix%20UI-161618.svg?style=for-the-badge&logo=Radix-UI&logoColor=white    " height="35"/>  
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white  " height="35"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white  " height="35"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF.svg?style=for-the-badge&logo=Framer&logoColor=white  " height="35"/>  
+  <img src="https://img.shields.io/badge/React%20Markdown-82BAGB.svg?style=for-the-badge&logo=React&logoColor=black" height="35"/>  
+  <img src="https://img.shields.io/badge/Lucide%20React-F56565.svg?style=for-the-badge&logo=Lucide&logoColor=white   " height="35"/>  
+  <img src="https://img.shields.io/badge/TanStack%20Query-000000.svg?style=for-the-badge&logo=TanStack&logoColor=white " height="35"/>  
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white " height="35"/>  
+  <img src="https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white " height="35"/>  
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white " height="35"/>  
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white " height="35"/>  
+  <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white " height="35"/>  
+  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white " height="35"/>  
   </p>
+
+<br>
 <br>
 
 <h5>Direitos Autorais ©2026 por Tassia dos Santos | Todos os Direitos Reservados</h5>
