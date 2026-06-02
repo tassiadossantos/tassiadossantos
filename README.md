@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/stars/tassiadossantos?style=for-the-badge&logo=star&logoColor=white&color=FFD700&label=Stars    " height="25"/>
   <img src="https://img.shields.io/github/followers/tassiadossantos?style=for-the-badge&logo=github&logoColor=white&color=4169E1&label=Followers    " height="25"/>
   <img src="https://img.shields.io/badge/Repositories-purple?style=for-the-badge&logo=github&logoColor=white&color=8A2BE2    " height="25"/>
-  <img src="https://img.shields.io/badge/Experience-2_Years-FF1493?style=for-the-badge&logo=dev.to&logoColor=white    " height="25"/>
+  <img src="https://img.shields.io/badge/Experience-3_Years-FF1493?style=for-the-badge&logo=dev.to&logoColor=white    " height="25"/>
   <img src="https://img.shields.io/github/issues/tassiadossantos/tassiadossantos?style=for-the-badge&logo=gitbook&logoColor=white&color=FFA500&label=Issues    " height="25"/>
   <img src="https://img.shields.io/github/issues-pr/tassiadossantos/tassiadossantos?style=for-the-badge&logo=git&logoColor=white&color=32CD32&label=Pull%20Requests    " height="25"/>
   <img src="https://img.shields.io/badge/Code_Reviews-20+-FF4500?style=for-the-badge&logo=reviewboard&logoColor=white    " height="25"/>
