@@ -18,7 +18,7 @@
 
 Sou **Desenvolvedora Front-end** com foco em **UI Design**, estudante de Ciência da Computação e alguém que acredita que um bom produto começa com uma interface que faz sentido para quem a usa.
 
-Trabalho com **React**, **TypeScript** e **Node.js** para criar aplicações do zero — da concepção ao deploy em produção. Minha casa é o front-end, mas não tenho medo de atravessar a porta do back-end quando o projeto pede: já implementei APIs REST, integração com banco de dados e até rastreabilidade via **blockchain**.
+Trabalho com **React**, **TypeScript** e **Node.js** para criar aplicações do zero — da concepção ao deploy em produção. Minha casa é o front-end, mas não tenho medo de atravessar a porta do back-end quando o projeto pede: já implementei APIs REST, integração com banco de dados e até rastreabilidade via **blockchain** — usando IA como ferramenta de apoio no processo, não como substituta do raciocínio.
 
 O que me diferencia? Não entrego apenas código que funciona. Entrego **experiências que convertem**, com atenção a cada detalhe de usabilidade, acessibilidade e performance.
 
