@@ -96,7 +96,7 @@ Protótipo de uma plataforma **enterprise B2B** para rastreabilidade de produtos
 
 ## 💡 O que me move
 
-Estou em constante evolução, aprimorando minha capacidade de criar interfaces que sejam ao mesmo tempo **bonitas, funcionais e acessíveis**. Minha formação em Ciência da Computação me dá a base teórica para ir além do "funciona" — entendendo *por que* funciona e *como* pode funcionar melhor.
+Estou em constante evolução, aprimorando minha capacidade de criar interfaces que sejam ao mesmo tempo **bonitas, funcionais e acessíveis**. Minha futura formação em Ciência da Computação me dará a base teórica para ir além do "funciona" — entendendo *por que* funciona e *como* pode funcionar melhor.
 
 Acredito que **código limpo não é perfeccionismo, é respeito pelo próximo desenvolvedor** — que pode ser eu mesma em três meses.
 
