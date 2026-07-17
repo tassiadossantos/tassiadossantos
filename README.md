@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Tassia dos Santos 👋</h1>
+<h1 align="center">Olá, eu sou Tassia dos Santos</h1>
 
 <h3 align="center">
   Front-end Developer · UI Design · React · TypeScript
