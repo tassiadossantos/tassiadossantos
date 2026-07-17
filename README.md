@@ -28,6 +28,41 @@ O que me diferencia? Não entrego apenas código que funciona. Entrego **experi�
 
 ## 🚀 Projetos em Destaque
 
+### 🛡️ CodeX — Sistemas Enterprise
+> **React + TypeScript + Vite + TailwindCSS + Supabase**
+
+Site institucional de alta performance para uma empresa de engenharia de software enterprise — com estética **HUD/tactical** inspirada em interfaces de sci-fi (arc reactor, brackets, scanlines), focado em captação de leads corporativos.
+
+**Arquitetura que vale a pena ver:**
+- **Design System customizado** com paleta escura (fundo `#06080F`) e acentos em laranja (`#FF6B00`) e dourado (`#E8A020`) — identidade visual coesa em todo o site
+- **Componentes HUD** reutilizáveis: `Brackets` (cantos de moldura SVG), `HudLabel`, `FadeIn`, `ScanLine`, `ArcReactor` — cada um com animações Framer Motion
+- **Seção Hero com terminal de boot simulado** — sequência animada de inicialização do sistema antes de revelar o conteúdo principal
+- **Arc Reactor interativo** com anéis rotativos e barras de status animadas (Power Core, Neural Net, Security)
+- **Cards de serviços** com módulos numerados, ícones Lucide e tags tecnológicas
+- **Marquee de tech stack** — carrossel infinito com as ferramentas utilizadas
+- **Seção de metodologia** em 4 etapas: Discovery → Architecture → Engineering → Deployment
+- **Blueprint de Clean Architecture** — diagrama visual das camadas (Presentation, Application, Domain, Infrastructure)
+- **Árvore de monorepo** estilizada em terminal com syntax highlighting
+- **Formulário de contato** com dropdown customizado (orçamento), validação e integração com **Supabase** para persistência de leads
+- **Animações de scroll** com `useInView` do Framer Motion para entrada progressiva dos elementos
+- **Design 100% responsivo** com menu mobile toggle
+- **Deploy automatizado** via GitHub Pages com `gh-pages`
+
+**Stack completa:**
+- React 18 + TypeScript + Vite
+- TailwindCSS v4 + Radix UI + shadcn/ui
+- Framer Motion (motion) para animações
+- Lucide React para ícones
+- Supabase (PostgreSQL) para backend de leads
+- React Hook Form + Zod para formulários
+- Recharts para gráficos
+
+**Resultado:** presença digital profissional com identidade visual forte que comunica autoridade técnica — transformando visitantes em leads qualificados via formulário de contato integrado ao Supabase.
+
+🔗 [Ver live](https://tassiadossantos.github.io/codex/) · [Ver repositório no GitHub](https://github.com/tassiadossantos/codex)
+
+---
+
 ### 🛡️ Consultoria SST — Site Institucional & Geração de Leads
 > **React + TypeScript + Node.js + PostgreSQL + Vercel**
 
