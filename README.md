@@ -31,7 +31,7 @@ O que me diferencia? Não entrego apenas código que funciona. Entrego **experi�
 ### 🛡️ CodeX — Sistemas Enterprise
 > **React + TypeScript + Vite + TailwindCSS + Supabase**
 
-Site institucional de alta performance para uma empresa de engenharia de software enterprise — com estética **HUD/tactical** inspirada em interfaces de sci-fi (arc reactor, brackets, scanlines), focado em captação de leads corporativos.
+Site institucional de alta performance para uma empresa de engenharia de software enterprise — com estética **HUD/tactical** inspirada em interfaces sci-fi (arc reactor, brackets, scanlines), focado em captação de leads corporativos.
 
 **Arquitetura que vale a pena ver:**
 - **Design System customizado** com paleta escura (fundo `#06080F`) e acentos em laranja (`#FF6B00`) e dourado (`#E8A020`) — identidade visual coesa em todo o site
@@ -105,7 +105,10 @@ Protótipo de uma plataforma **enterprise B2B** para rastreabilidade de produtos
 
 ## 🧰 Stack Tecnológica
 
-### Minha casa - Front-end
+### Minha casa — Front-end
+
+> Aqui eu construo, animo e dou vida às interfaces. Cada pixel tem propósito.
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-9135FF.svg?style=for-the-badge&logo=Vite&logoColor=white)
@@ -115,24 +118,31 @@ Protótipo de uma plataforma **enterprise B2B** para rastreabilidade de produtos
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-000000.svg?style=for-the-badge&logo=TanStack&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7.svg?style=for-the-badge&logo=Zod&logoColor=white)
 ![Lucide React](https://img.shields.io/badge/Lucide%20React-F56565.svg?style=for-the-badge&logo=Lucide&logoColor=white)
 
-### Back-end & Banco de Dados
+### Quando atravesso a porta — Back-end & Banco de Dados
+
+> Não é minha casa, mas eu sei onde fica a chave. API, banco, lógica — quando o projeto pede, eu entro.
+
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-0A0A0A.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F.svg?style=for-the-badge&logo=Drizzle&logoColor=black)
 
-### Ferramentas & Versionamento
+### Ferramentas & Fluxo de Trabalho
+
+> As ferramentas que mantêm o código organizado, versionado e deployado.
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
-![GitActions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
+![pnpm](https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
 
 ---
 
