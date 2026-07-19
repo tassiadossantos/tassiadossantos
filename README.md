@@ -28,6 +28,32 @@ O que me diferencia? Não entrego apenas código que funciona. Entrego **experi�
 
 ## 🚀 Projetos em Destaque
 
+### 📊 DevBoard — Dashboard de Produtividade para Desenvolvedores
+> **React + TypeScript + Vite + Recharts + Zustand + Tailwind CSS**
+
+Painel de produtividade que reúne seus commits do GitHub, streaks, idiomas e métricas em uma única interface bonita e funcional.
+
+**Por que DevBoard?**
+O GitHub mostra commits. O WakaTime mostra tempo. Nenhum mostra tudo junto.
+O DevBoard unifica seus dados de produtividade como desenvolvedor em um único dashboard elegante — para que você possa focar em entregar código, não em alternar entre abas.
+
+**Funcionalidades:**
+- **Gráfico de Atividade de Commits** — Visualize seu histórico de commits das últimas 12 semanas
+- **Rastreador de Streaks** — Monitore streaks atuais e mais longos de commits
+- **Distribuição de Idiomas** — Gráfico de pizza dos idiomas nos seus repositórios
+- **Grade de Contribuições** — Calendário de contribuições no estilo GitHub do último ano
+- **Feed de Atividade** — Commits recentes, PRs, issues e code reviews
+- **Rastreador de Metas** — Defina e acompanhe metas de produtividade personalizadas
+- **Tema Escuro/Claro** — Alterne entre temas
+- **Estatísticas Detalhadas** — Top repositórios, membro desde, seguidores e detalhamento de estrelas
+
+**Stack Tecnológica:**
+React · TypeScript · Vite · Recharts · Zustand · Tailwind CSS · date-fns
+
+🔗 [Ver live](https://tassiadossantos.github.io/devboard/) · [Ver repositório no GitHub](https://github.com/tassiadossantos/devboard)
+
+---
+
 ### 🛡️ CodeX — Sistemas Enterprise
 > **React + TypeScript + Vite + TailwindCSS + Supabase**
 
@@ -80,26 +106,6 @@ Construí do zero a presença digital completa de uma consultoria em Segurança 
 **Resultado:** uma plataforma institucional que atua como vendedor 24h — gerando leads qualificados por WhatsApp e e-mail enquanto fortalece a autoridade digital da consultoria.
 
 🔗 [Ver repositório no GitHub](https://github.com/tassiadossantos/escudo-consultoria)
-
----
-
-### 🌾 AgroTech — Plataforma de Rastreabilidade com Blockchain
-> **React + TypeScript + Node.js + PostgreSQL + Polygon (Ethereum L2)**
-
-Protótipo de uma plataforma **enterprise B2B** para rastreabilidade de produtos agrícolas usando tecnologia blockchain — porque no agronegócio, transparência não é opcional.
-
-**Arquitetura que vale a pena ver:**
-- Rastreamento de **4 etapas da cadeia produtiva**: Insumo → Aplicação → Colheita → Transporte
-- Integração com a **rede Polygon** para imutabilidade criptográfica dos registros
-- Componente de **verificação on-chain vs off-chain** para auditoria em tempo real
-- **Dashboards interativos** com métricas e visualizações de dados
-- Formulários multi-etapas para registro de lotes com **React Hook Form + Zod**
-- API RESTful com **Node.js/Express** e persistência em **PostgreSQL via Drizzle ORM**
-- Sistema de design coerente com **shadcn/ui + TailwindCSS**
-
-**Resultado:** sistema capaz de garantir rastreabilidade completa e verificável criptograficamente — combatendo fraudes e aumentando a confiança em toda a cadeia produtiva.
-
-🔗 [Ver repositório no GitHub](https://github.com/tassiadossantos/rastreabilidade-blockchain-)
 
 ---
 
